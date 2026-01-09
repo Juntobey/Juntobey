@@ -1,6 +1,6 @@
 # Hi there, I'm Lebogang 👋
 
-🔬 Data Scientist | Aspiring Penetration Tester | 🌍 Based in South Africa
+🔬 Data Scientist | Aspiring Security Data Engineer | 🌍 Based in South Africa
 
 💡 I build scalable applications that solve real-world problems — combining full-stack development, data science, and cybersecurity.
 
