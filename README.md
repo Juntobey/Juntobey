@@ -32,14 +32,13 @@ FastAPI | Node.js | Next.js | NPM | JWT | jQuery | Apache | Bootstrap | GitHub A
 
 ## 📂 Projects
 
-### 🏥 Revival Medical Aesthetics
+### 🏥 Revival Medical Aesthetics: https://revivalmedicalaesthetics.com/
 A full-stack booking and management web app for a GP/Aesthetician clinic.  
 **Tech:** React • Tailwind • API Integration • Docker
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/lebogang-tobey-ndlovu-a89692240/)
-- [Personal Website](https://lebogang-tobey-ndlovu.vercel.app/)
 - ndlovulebogangtobey@gmail.com
 
 > " My end goal: Code with curiosity, secure with purpose."
