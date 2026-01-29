@@ -2,7 +2,7 @@
 
 🔬 Data Scientist | Aspiring Data Engineer | 🌍 Based in South Africa
 
-💡 I build scalable applications that solve real-world problems — combining full-stack development, data science, and cybersecurity.
+💡 I build scalable applications that solve real-world problems; combining full-stack development, data science, and cybersecurity.
 
 ## 🎓 Education & Training
 
