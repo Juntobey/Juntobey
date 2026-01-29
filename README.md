@@ -1,6 +1,6 @@
 # Hi there, I'm Lebogang 👋
 
-🔬 Data Scientist | Aspiring Security Data Engineer | 🌍 Based in South Africa
+🔬 Data Scientist | Aspiring Data Engineer | 🌍 Based in South Africa
 
 💡 I build scalable applications that solve real-world problems — combining full-stack development, data science, and cybersecurity.
 
@@ -9,6 +9,7 @@
 - BSc Computer Science – Eduvos (2024)
 - Alison – Business Analysis
 - AWS – Introduction to Cloud 101
+- TryHackMe - Pre Security Certification (2026 -2029) 
 
 ## 🛠️ Skills & Tools
 
