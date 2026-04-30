@@ -1,6 +1,11 @@
-# Hi there, I'm Tobey 👋
+<h1 align="center">
+  Hi there, I'm Tobey 👋 
+  <img src="https://github.com/user-attachments/assets/15b5c2eb-84ef-4e04-a627-dc4d8abca31f />" width="50"/>
+</h1>
 
-🔬 Data Scientist | Aspiring Data Engineer | 🌍 Based in South Africa
+<p align="center">
+  🔬 Data Scientist | Aspiring Data Engineer | 🌍 Based in South Africa
+</p>
 
 💡 I build scalable applications that solve real-world problems; combining full-stack development, data science, and cybersecurity.
 
