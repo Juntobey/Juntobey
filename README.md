@@ -1,4 +1,4 @@
-# Hi there, I'm Lebogang 👋
+# Hi there, I'm Tobey 👋
 
 🔬 Data Scientist | Aspiring Data Engineer | 🌍 Based in South Africa
 
