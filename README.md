@@ -1,11 +1,13 @@
 <h1 align="center">
   Hi there, I'm Tobey 👋 
-  <img src="avatar.gif/>" width="50"/>
+  <img src="./avatar.gif" width="50"/>
 </h1>
 
 <p align="center">
   🔬 Data Scientist | Aspiring Data Engineer | 🌍 Based in South Africa
 </p>
+
+---
 
 💡 I build scalable applications that solve real-world problems; combining full-stack development, data science, and cybersecurity.
 
