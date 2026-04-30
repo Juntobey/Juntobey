@@ -14,19 +14,19 @@
 ## 🛠️ Skills & Tools
 
 **Programming & Scripting:**  
-C# | C++ | JavaScript  | Python | Bash Script | TypeScript | PowerShell | R | SQL
+C# | C++ | JavaScript  | Python | Bash Script | TypeScript | PowerShell | SQL
 
 **Web Development:**  
-React.js | | Node.js| Apache Maven | MySQL | SQLite | Nginx | Apache Tomcat
+React.js | | Node.js| Apache Maven | MySQL | SQLite | Nginx 
 
 **Data Science & Machine Learning:**  
 Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Apache Spark | Canva | Figma | Plotly | SciPy | GitLab
 
 **Databases:**  
-PostgreSQL | MongoDB | Firebase | Cassandra | Microsoft SQL Server
+PostgreSQL | MongoDB | Firebase | Microsoft SQL Server
 
 **DevOps & Tools:**  
-Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase || .NET | Kubernetes| Power BI | Jest | Arduino | Cisco | Postman | React Native | React Query | Vue.js | Vite
+Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase || .NET| Power BI | Arduino | Cisco | Postman | React Native | React Query | Vue.js | Vite
 
 **Other:**  
 FastAPI | Node.js | Next.js | NPM | JWT | jQuery | Apache | Bootstrap | GitHub Actions | TestingLibrary
