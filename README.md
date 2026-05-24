@@ -17,6 +17,7 @@
 - Alison – Business Analysis
 - AWS – Introduction to Cloud 101
 - TryHackMe - Pre Security Certification (2026 -2029)
+---
 
 🚀 Currently Working On
 
@@ -25,6 +26,7 @@
 - ☁️ Microsoft Azure & Cloud Technologies
 - 🤖 AI-Powered Applications & Prompt Engineering  
 - 🚀 Hands-on Projects from an AI Engineering Bootcamp
+---
 
 ## 🛠️ Skills & Tools
 
