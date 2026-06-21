@@ -43,7 +43,7 @@ Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Apache Spar
 PostgreSQL | MongoDB | Firebase | Microsoft SQL Server
 
 **DevOps & Tools:**  
-Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase || .NET | Kubernetes| Power BI | Jest | Arduino | Cisco | Postman | React Native | React Query | Vue.js | Vite
+Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase || .NET | Power BI | Arduino | Cisco | React Native | React Query |
 
 **Other:**  
 FastAPI | Node.js | Next.js | NPM | JWT | jQuery | Apache | Bootstrap | GitHub Actions | TestingLibrary
