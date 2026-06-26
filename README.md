@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
- 🔬 Data Scientist | Aspiring Data Engineer | ☁️ Future Cloud & DevOps Engineer <br> | 🌍 Based in South Africa
+ 🔬 Computer Scientist | Aspiring Data Engineer | ☁️ Future Cloud & DevOps Engineer <br> | 🌍 Based in South Africa
 </p>
 
 ---
