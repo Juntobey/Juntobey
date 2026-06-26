@@ -9,7 +9,7 @@
 
 ---
 
-💡 My work sits at the intersection of full-stack development, data, and security. I care less about the stack and more about whether the thing actually works.
+💡 My work sits at the intersection of full-stack development, data, and cloud. I care less about the stack and more about whether the appliaction actually works.
 
 ## 🎓 Education & Training
 
@@ -31,10 +31,10 @@
 ## 🛠️ Skills & Tools
 
 **Programming & Scripting:**  
-C# | C++ | JavaScript  | Python | Bash Script | TypeScript | PowerShell | R | SQL
+C# | C++ | JavaScript  | Python | Bash Script | TypeScript | PowerShell | SQL
 
 **Web Development:**  
-React.js | | Node.js| Apache Maven | MySQL | SQLite | Nginx | Apache Tomcat
+React.js | | Node.js| Apache Maven | SQL | SQLite | Nginx | Apache Tomcat
 
 **Data Science & Machine Learning:**  
 Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Apache Spark | Canva | Figma | Plotly | SciPy | GitLab
@@ -43,7 +43,7 @@ Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Apache Spar
 PostgreSQL | MongoDB | Firebase | Microsoft SQL Server
 
 **DevOps & Tools:**  
-Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase || .NET | Power BI | Arduino | Cisco | React Native | React Query |
+Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase |.NET | Power BI | Arduino | Cisco | React Native | React Query |
 
 **Other:**  
 FastAPI | Node.js | Next.js | NPM | JWT | jQuery | Apache | Bootstrap | GitHub Actions | TestingLibrary
