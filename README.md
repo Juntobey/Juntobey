@@ -31,23 +31,26 @@
 
 ## 🛠️ Skills & Tools
 
-**Programming & Scripting:**  
-C# | C++ | JavaScript  | Python | Bash Script | TypeScript | PowerShell | SQL
+**Languages:**  
+C# • C++ • JavaScript • Python • SQL • Bash • PowerShell
 
-**Web Development:**  
-React.js |Node.js | SQL | SQLite | Nginx
+**Frontend:**  
+React • React Native • Next.js • Tailwind CSS • Bootstrap • jQuery • HTML • CSS
 
-**Data Science & Machine Learning:**  
-Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Canva | Figma | Plotly | SciPy | GitLab
+**Backend & APIs:**  
+Node.js • FastAPI • .NET • JWT • NPM
 
 **Databases:**  
-PostgreSQL | MongoDB | Firebase | Microsoft SQL Server
+PostgreSQL • Microsoft SQL Server • MongoDB • SQLite • Firebase
 
-**DevOps & Tools:**  
-Git & GitHub | Docker | Linux | Jupyter Notebook | Netlify | AWS | Google Cloud | Firebase |.NET | Power BI | Arduino | Cisco | React Native | React Query |
+**Data & AI:**  
+Pandas • NumPy • Matplotlib • Plotly • SciPy • Scikit-learn • TensorFlow • Jupyter Notebook
 
-**Other:**  
-FastAPI | Node.js | Next.js | NPM | JWT | jQuery | Apache | Bootstrap | GitHub Actions | TestingLibrary
+**Cloud & DevOps:**  
+AWS • Google Cloud • Docker • Linux • Git • GitHub • GitHub Actions • Netlify • Nginx • Apache
+
+**Tools & Platforms:**  
+Power BI • Cisco • Arduino • React Query • Testing Library • Figma • Canva • GitLab
 
 ## 📂 Projects
 
