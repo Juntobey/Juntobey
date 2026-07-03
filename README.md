@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi there, I'm Tobey Ndlovu 👋 
-  <img src="./avatar.gif" width="50"/>
 </h1>
 
 <p align="center">
@@ -17,6 +16,8 @@
 - Alison – Business Analysis
 - AWS – Introduction to Cloud 101
 - TryHackMe - Pre Security Certification (2026 -2029)
+- Coursera- Google AI Essentials Specialization
+- Coursera - Artificial Intelligence (AI) Bootcamp
 ---
 
 🚀 Currently Working On
@@ -34,10 +35,10 @@
 C# | C++ | JavaScript  | Python | Bash Script | TypeScript | PowerShell | SQL
 
 **Web Development:**  
-React.js | | Node.js| Apache Maven | SQL | SQLite | Nginx | Apache Tomcat
+React.js |Node.js | SQL | SQLite | Nginx
 
 **Data Science & Machine Learning:**  
-Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Apache Spark | Canva | Figma | Plotly | SciPy | GitLab
+Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Anaconda | Canva | Figma | Plotly | SciPy | GitLab
 
 **Databases:**  
 PostgreSQL | MongoDB | Firebase | Microsoft SQL Server
@@ -53,6 +54,10 @@ FastAPI | Node.js | Next.js | NPM | JWT | jQuery | Apache | Bootstrap | GitHub A
 ### 🏥 Revival Medical Aesthetics: https://revivalmedicalaesthetics.com/
 A full-stack booking and management web app for a GP/Aesthetician clinic.  
 **Tech:** React • Tailwind • API Integration • Docker
+
+### 🤖 AI Ops Assistant : https://opspeak-ai.lovable.app/
+An AI-powered IT service desk platform that automates ticket classification, prioritization, routing, and analytics for internal support teams.  
+**Tech:** React • TypeScript • Tailwind • Supabase • PostgreSQL • Gemini API • Chart.js
 
 ## Connect with Me
 
