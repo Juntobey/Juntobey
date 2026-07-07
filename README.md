@@ -28,9 +28,10 @@
 - 🤖 AI-Powered Applications & Prompt Engineering  
 - 🚀 Hands-on Projects from an AI Engineering Bootcamp
   
-#30NitesOfCode Pet Embed
+#30NitesOfCode Pet Embed:
+
 Meet Zoe 💜
-I'm taking on the #30NitesOfCode challenge, and every day I code, Zoe gets fed. Follow our progress here:[Check Zoe's progress](https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh)
+I'm taking on the 30NitesOfCode challenge, and every day I code, Zoe gets fed. Follow our progress here:[Check Zoe's progress](https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh)
 ---
 
 ## 🛠️ Skills & Tools
