@@ -8,7 +8,7 @@
 
 ---
 
-💡 My work sits at the intersection of full-stack development, data, and cloud. I care less about the stack and more about whether the appliaction actually works.
+💡 My work sits at the intersection of full-stack development, data, and cloud. I care less about the stack and more about whether the application actually works.
 
 ## 🎓 Education & Training
 
@@ -41,26 +41,26 @@ https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh
 
 ## 🛠️ Skills & Tools
 
-**Languages:**  
-C# • C++ • JavaScript • Python • SQL • Bash • PowerShell
+### Languages
+Python • SQL • JavaScript • C# • C++ • Bash
 
-**Frontend:**  
-React • React Native • Next.js • Tailwind CSS • Bootstrap • jQuery • HTML • CSS
+### Cloud & Infrastructure
+AWS (VPC, EC2, NAT Gateway, Internet Gateway, Route Tables, Security Groups, NACLs) • Microsoft Azure • Linux
 
-**Backend & APIs:**  
-Node.js • FastAPI • .NET • JWT • NPM
+### Data & AI
+Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Jupyter Notebook • Power BI
 
-**Databases:**  
-PostgreSQL • Microsoft SQL Server • MongoDB • SQLite • Firebase
+### Databases
+PostgreSQL • Microsoft SQL Server • MongoDB • Firebase
 
-**Data & AI:**  
-Pandas • NumPy • Matplotlib • Plotly • SciPy • Scikit-learn • TensorFlow • Jupyter Notebook
+### Web Development
+React • Next.js • Node.js • HTML • CSS • Tailwind CSS
 
-**Cloud & DevOps:**  
-AWS • Google Cloud • Docker • Linux • Git • GitHub • GitHub Actions • Netlify • Nginx • Apache
+### DevOps & Version Control
+Git • GitHub • Docker
 
-**Tools & Platforms:**  
-Power BI • Cisco • Arduino • React Query • Testing Library • Figma • Canva • GitLab
+### Tools
+VS Code • GitHub Actions • Figma • Canva • Arduino
 
 ## 📂 Projects
 
@@ -68,9 +68,12 @@ Power BI • Cisco • Arduino • React Query • Testing Library • Figma •
 A full-stack booking and management web app for a GP/Aesthetician clinic.  
 **Tech:** React • Tailwind • API Integration • Docker
 
-### 🤖 AI Ops Assistant : https://opspeak-ai.lovable.app/
-An AI-powered IT service desk platform that automates ticket classification, prioritization, routing, and analytics for internal support teams.  
+### 🤖 AI Ops Assistant: https://opspeak-ai.lovable.app/
+An AI-powered IT service desk platform that automates ticket classification, prioritisation, routing, and analytics for internal support teams.  
 **Tech:** React • TypeScript • Tailwind • Supabase • PostgreSQL • Gemini API • Chart.js
+
+### AWS Secure VPC Infrastructure
+Designed and deployed a secure AWS Virtual Private Cloud featuring public and private subnets across multiple Availability Zones, Internet and NAT Gateways, custom route tables, Network ACLs, Security Groups, and EC2 instances with SSH access via a bastion host.
 
 ## Connect with Me
 
