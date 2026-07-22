@@ -72,7 +72,7 @@ A full-stack booking and management web app for a GP/Aesthetician clinic.
 An AI-powered IT service desk platform that automates ticket classification, prioritisation, routing, and analytics for internal support teams.  
 **Tech:** React • TypeScript • Tailwind • Supabase • PostgreSQL • Gemini API • Chart.js
 
-### AWS Secure VPC Infrastructure
+### AWS Secure VPC Infrastructure : https://github.com/Juntobey/design-and-deploy-secure-aws-vpc
 Designed and deployed a secure AWS Virtual Private Cloud featuring public and private subnets across multiple Availability Zones, Internet and NAT Gateways, custom route tables, Network ACLs, Security Groups, and EC2 instances with SSH access via a bastion host.
 
 ## Connect with Me
