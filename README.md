@@ -30,10 +30,10 @@
   
 #30NitesOfCode Pet Embed:
 
-I'm taking on the **#30NitesOfCode** challenge. Every day I code, my **Zoe** gets fed!
+I'm taking on the **#30NitesOfCode** challenge. Every day I code, my **BMO* gets fed!
 
 💜 **Check Zoe's progress:**  
-https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh
+[https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh](https://www.codedex.io/@khaili-halle/30-nites-of-code)
 
 <!-- START #30NitesOfCode -->
 <!-- END #30NitesOfCode -->
