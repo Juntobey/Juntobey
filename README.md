@@ -68,7 +68,7 @@ VS Code • GitHub Actions • Figma • Canva • Arduino
 A full-stack booking and management web app for a GP/Aesthetician clinic.  
 **Tech:** React • Tailwind • API Integration • Docker
 
-## TrustLedger AI (team was semi-finalist):https://github.com/drico999/trustledger-ai
+### TrustLedger AI (team was semi-finalist):https://github.com/drico999/trustledger-ai
 Real-time public procurement transparency and fraud prevention platform. Built with React 19, TypeScript, Express, and Firebase. Integrates Gemini AI and Tesseract OCR to flag overpricing and double claims in supplier invoices.
 
 ###  AI Ops Assistant: https://opspeak-ai.lovable.app/
