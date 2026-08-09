@@ -22,7 +22,7 @@
 
 🚀 Currently Working On
 
-- 💻 C# Development  
+- 💻 Cloud Computering  
 - 🐍 Python Programming  
 - ☁️ Microsoft Azure & Cloud Technologies
 - 🤖 AI-Powered Applications & Prompt Engineering  
