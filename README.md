@@ -82,5 +82,6 @@ Designed and deployed a secure AWS Virtual Private Cloud featuring public and pr
 
 - [LinkedIn](https://www.linkedin.com/in/lebogang-tobey-ndlovu-a89692240/)
 - ndlovulebogangtobey@gmail.com
+- [Personal Portfolio](https://builtbytobeyndlovu.netlify.app)
 
 > " My end goal: Code with curiosity, secure with purpose."
