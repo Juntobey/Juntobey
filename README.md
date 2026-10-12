@@ -45,16 +45,16 @@ I'm taking on the **#30NitesOfCode** challenge. Every day I code, my *BMO* gets 
 Python • SQL • JavaScript • C# • C++ • Bash
 
 ### Cloud & Infrastructure
-AWS (VPC, EC2, NAT Gateway, Internet Gateway, Route Tables, Security Groups, NACLs) • Microsoft Azure • Linux
+AWS • Microsoft Azure • Linux
 
 ### Data & AI
 Pandas • NumPy • Matplotlib • Scikit-learn • TensorFlow • Jupyter Notebook • Power BI
 
 ### Databases
-PostgreSQL • Microsoft SQL Server • MongoDB • Firebase
+PostgreSQL • Microsoft SQL Server  • Firebase
 
 ### Web Development
-React • Next.js • Node.js • HTML • CSS • Tailwind CSS
+React • Node.js • HTML • CSS • Tailwind CSS
 
 ### DevOps & Version Control
 Git • GitHub • Docker
