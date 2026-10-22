@@ -22,7 +22,7 @@
 
 🚀 Currently Working On
 
-- 💻 Cloud Computering  
+- 💻 Cloud Computing  
 - 🐍 Python Programming  
 - ☁️ Microsoft Azure & Cloud Technologies
 - 🤖 AI-Powered Applications & Prompt Engineering  
@@ -30,10 +30,10 @@
   
 #30NitesOfCode Pet Embed:
 
-I'm taking on the **#30NitesOfCode** challenge. Every day I code, my *BMO* gets fed!
+I'm taking on the **#30NitesOfCode** challenge. Every day I code, my *Raya* gets fed!
 
-💜 **Check BMO's progress:**  
-[https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh](https://www.codedex.io/@khaili-halle/30-nites-of-code)
+💜 **Check Raya's progress:**  
+[https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh](https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=c9JCxEMFEiNCqEsyhTnl)
 
 <!-- START #30NitesOfCode -->
 <!-- END #30NitesOfCode -->
