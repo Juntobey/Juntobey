@@ -33,7 +33,7 @@
 I'm taking on the **#30NitesOfCode** challenge. Every day I code, my *Raya* gets fed!
 
 💜 **Check Raya's progress:**  
-[https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh]([https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=c9JCxEMFEiNCqEsyhTnl](https://www.codedex.io/@khaili-halle/30-nites-of-code))
+[https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=OgPxebzirJ9izfcSnUbh]([(https://www.codedex.io/@khaili-halle/30-nites-of-code?pet=c9JCxEMFEiNCqEsyhTnl](https://www.codedex.io/@khaili-halle/30-nites-of-code))
 
 <!-- START #30NitesOfCode -->
 <!-- END #30NitesOfCode -->
